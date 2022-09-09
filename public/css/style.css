@@ -1,0 +1,38 @@
+body{
+    margin: auto;
+    max-width: 500px;
+    min-height: 850px;
+    border: 10px solid rgb(94, 89, 89);
+    background-color: rgb(150, 160, 170);
+}
+
+
+
+
+/*post page thangs*/
+.postTitle{
+    text-align: center;
+    font-weight: bolder
+}
+/*caption box*/
+.caption{
+    border: 2px solid grey;
+    background-color: white;
+
+}
+
+.btn{
+    font-size: .5rem;
+}
+
+/*log in page*/
+
+.logIn{
+    margin: auto;
+    border: 3px solid red;
+    max-width: 100%;
+    
+}
+.label{
+    size: 0.5em;
+}
